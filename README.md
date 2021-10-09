@@ -2,7 +2,6 @@
 
 - 🔭 Estudando front-end e em busca de um estágio.
 - 🌱 Estudando HTML 5, CSS 3, Javascript e Python.
-- .
 - 😄 
 
 <div align="center">
