@@ -3,7 +3,7 @@
 - Estágiario na Dataprev.
 - Estudante de Sistemas de Informação 4/8.
 - 🔭 Estudando front-end e em busca de um estágio.
-- 🌱 Estudando HTML 5, CSS 3, Javascript e Python.
+- 🌱 Estudando HTML 5, CSS 3, Javascript ,Python e PHP.
 - 😄 
 
 <div align="center">
