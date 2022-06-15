@@ -2,7 +2,7 @@
 
 - Estágiario na Dataprev.
 - Estudante de Sistemas de Informação 5/8.
-- 🌱 Estudando HTML 5, CSS 3, Javascript ,Python e PHP.
+- 🌱 Trabalhando atualmente com  HTML 5, CSS 3, Javascript ,Python e PHP.
 - 😄 
 
 <div align="center">
