@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jonathan
 
 - Estágiario na Dataprev.
-- Estudante de Sistemas de Informação 5/8.
+- Estudante de Sistemas de Informação 6/8.
 - 🌱 Trabalhando atualmente com  HTML 5, CSS 3, Javascript ,Python e PHP.
 - 😄 
 
@@ -19,6 +19,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="reactjs" height="30" width="40" src="https://www.svgrepo.com/show/303500/react-1-logo.svg">
+    <img align="center" alt="Bootstrap" height="30" width="40" src="[https://www.svgrepo.com/show/303500/react-1-logo.svg](https://p.kindpng.com/picc/s/163-1636552_color-icon-html-css-js-bootstrap-hd-png.png)">
+    
 
  
 </div>
