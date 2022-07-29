@@ -22,7 +22,7 @@
     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
     <img align="center" alt="Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1200px-Tailwind_CSS_Logo.svg.png">
-     <img align="center" alt="TypeScript" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRlo70vc4js60i4XtW4clK4052Vj6lC5OLmw&usqp=CAU">
+     <img align="center" alt="TypeScript" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRlo70vc4js60i4XtW4clK4052Vj6lC5OLmw&usqp=CAU">
     
     
     
