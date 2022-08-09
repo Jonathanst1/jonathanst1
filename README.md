@@ -3,7 +3,7 @@
 - Estágiario na Dataprev.
 - Estudante de Sistemas de Informação 6/8.
 - 🌱 Trabalhando atualmente com  HTML 5, CSS 3, Javascript e Python.
-- 😄 Com conhecimentos em Reactjs, Typescript, Bootstrap 5 e Tailwind css.
+- 😄 Com conhecimentos em C#, Reactjs, Typescript, Bootstrap 5 e Tailwind css.
 
 <div align="center">
   <a href="https://github.com/Jonathanst1">
