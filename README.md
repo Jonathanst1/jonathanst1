@@ -2,7 +2,7 @@
 
 - Estágiario na Dataprev.
 - Estudante de Sistemas de Informação 6/8.
-- 🌱 Trabalhando atualmente com  HTML 5, CSS 3, Javascript e Python/Django.
+- 🌱 Trabalhando atualmente com  HTML 5, CSS 3, Javascript, Python/Django e Mysql.
 - 😄 Com conhecimentos em  PHP, Typescript, Bootstrap 5 e Tailwind css.
 
 <div align="center">
