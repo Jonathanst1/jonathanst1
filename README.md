@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jonathan
 
 - Estágiario na Dataprev.
-- Estudante de Sistemas de Informação 6/8.
+- Estudante de Sistemas de Informação 7/8.
 - 🌱 Trabalhando atualmente com  HTML 5, CSS 3, Javascript, Python/Django e Mysql.
 - 😄 Com conhecimentos em  PHP, Typescript, Bootstrap 5 e Tailwind css.
 
