@@ -2,8 +2,8 @@
 
 - Estágiario na Dataprev.
 - Estudante de Sistemas de Informação 8/8.
-- 🌱 Trabalhando atualmente com  HTML 5, CSS 3, Javascript, Python/Django e Mysql.
-- 😄 Com conhecimentos em  PHP,Java, Typescript, Bootstrap 5 e Tailwind css.
+- 🌱 Trabalhando atualmente com  HTML 5, CSS 3, Javascript,PHP, Python/Django e Mysql.
+- 😄 Com conhecimentos em  Java, Typescript, Bootstrap 5 e Tailwind css.
 
 <div align="center">
   <a href="https://github.com/Jonathanst1">
