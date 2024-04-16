@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jonathan
 
-- Desenvolvedor.
+- Desenvolvedor Web.
 - Estudante de Sistemas de Informação 8/8.
 - 🌱 Trabalhando atualmente com  HTML 5, CSS 3, Javascript,PHP/Laravel, Python/Django e Mysql.
 - 😄 Com conhecimentos em  Java, Typescript, Bootstrap 5 e Tailwind css.
