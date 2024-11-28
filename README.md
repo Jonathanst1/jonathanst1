@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jonathan
 
-- Desenvolvedor Web.
+- Desenvolvedor Full Stack.
 - Formado em Sistemas de Informação.
 - 🌱 Trabalhando atualmente com  HTML 5, CSS 3, Javascript,PHP/Laravel/CodeIgniter, Python/Django e Mysql.
 - 😄 Com conhecimentos em  Java,Aws, Typescript, Bootstrap 5 e Tailwind css.
