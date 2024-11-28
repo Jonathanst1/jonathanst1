@@ -3,7 +3,7 @@
 - Desenvolvedor Full Stack.
 - Formado em Sistemas de Informação.
 - 🌱 Trabalhando atualmente com  HTML 5, CSS 3, Javascript,PHP/Laravel/CodeIgniter, Python/Django e Mysql.
-- 😄 Com conhecimentos em  Java,Aws, Typescript, Bootstrap 5 e Tailwind css.
+- 😄 Com conhecimentos em  Java/Kotlin ,Aws, Typescript, Bootstrap 5 e Tailwind css.
 
 <div align="center">
   <a href="https://github.com/Jonathanst1">
